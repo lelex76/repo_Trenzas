@@ -2,7 +2,7 @@
 
 ## 01 — Una trenza como sistema
 
-Este primer experimento desarrolla una primera aproximación computacional a las **24 trenzas del Sitio Abismal**.
+Este primer experimento desarrolla una primera aproximación  a las **24 trenzas del Sitio Abismal**. ( https://vestibles.cl/proyectos/ttt-textiles-tecnicas-tecnologias-2023/): especulaciones que se desprenden del proyecto TTT2 https://www.academia.edu/144409160/TTT2_La_Piel_Tejida_Codificar_y_Significar_mediante_una_proto_Escritura_Desde_una_constelaci%C3%B3n_de_lenguaje_s_ 
 
 Antes de construir las 24 trenzas, el sistema se prueba con una sola estructura para observar cómo diferentes condiciones pueden producir una trayectoria irregular.
 
