@@ -1,5 +1,13 @@
 # READ01 — Primera exploración algorítmica
 
+Las 24 trenzas son formas que emergen del Sitio Abismal, no una representación directa de él.
+Cada una combina contención, ruido, acumulación y torsión.
+El ruido produce pequeñas desviaciones y la acumulación hace que estas permanezcan en el recorrido.
+La torsión convierte una trayectoria en tres hebras entrelazadas.
+Las 24 trenzas siguen las mismas reglas, pero cambian sus parámetros y colores.
+El experimento explora cómo pequeñas variaciones durante un recorrido pueden convertirse en forma.
+
+
 **Código asociado:** `01_trenzas_sitio_abismal.ipynb`
 
 ## 01 — Una trenza
