@@ -1,10 +1,9 @@
 # 03 — Combinaciones sobre trenzas
 
 
+No se parte de una definición experta nimucho menos de fenómenos como la contención, ruido y entropía. Se trabaja desde concepciones propias y perceptivas, relacionadas con la experiencia relacionada a los que es el tejido,  la información, la acción y la reacción, y la subjetividad. Los experimentos me permiten poner estas ideas en relación con el código y observar qué emerge.
 
-> **La relación no está completamente determinada de antemano; los experimentos buscan descubrirla.**
-
-Porque deja que el tejido, el sujeto, la información, la acción y la reacción **produzcan conocimiento durante el proceso**, en vez de obligar al código a demostrar algo que ya se había decidido antes.
+La relación no está completamente determinada de antemano; se va construyendo y descubriendo durante el proceso.
 
 ## ¿Qué hice en este experimento?
 
